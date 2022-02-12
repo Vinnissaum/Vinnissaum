@@ -27,8 +27,8 @@
 
 <div align="center">
   <a href="https://github.com/Vinnissaum">
-  <img height="179em" src="https://github-readme-stats.vercel.app/api?username=vinnissaum&count_private=true&include_all_commits=true&show_icons=true&theme=dark"/>
-  <img height="179em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinnissaum&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinnissaum&count_private=true&include_all_commits=true&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinnissaum&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ##
