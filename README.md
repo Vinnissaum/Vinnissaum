@@ -2,12 +2,13 @@
 
 
 ## Sobre mim:
- - *Me chamo Vinicius de Lima S. Braz* 
-
- - *Sou estudante de Engenharia Mecânica* 
- 
- - *Atualmente me aventurando no mundo de desenvolvimento Web* 
- 
+<div>
+  <ul>
+   <li>Me chamo Vinicius de Lima S. Braz</li>
+   <li>Sou estudante de Engenharia Mecânica</li>
+   <li>Atualmente me aventurando no mundo de desenvolvimento Web</li>
+ </ul>
+</div>
  
  ## Tecnologias:
  
