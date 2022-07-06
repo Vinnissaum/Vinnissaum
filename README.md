@@ -6,7 +6,7 @@
   <ul>
    <li>Me chamo Vinicius de Lima S. Braz</li>
    <li>Sou estudante de Engenharia Mecânica</li>
-   <li>Atualmente me aventurando no mundo de desenvolvimento Web</li>
+   <li>Atualmente estudando afundo o mundo de desenvolvimento Web</li>
  </ul>
 </div>
  
