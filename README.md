@@ -5,9 +5,9 @@
 <div>
   <ul>
    <li>Meu nome é Vinicius de Lima S. Braz</li>
-   <li>Sou estudante de Engenharia Mecânica</li>
-   <li>Apaixonado pelo mundo de desenvolvimento Web</li>
-   <li>Atualmente estudando backend em java com spring</li>
+   <li>Formado em Engenharia Mecânica</li>
+   <li>Entusiasta pelo mundo de desenvolvimento Web</li>
+   <li>Atualmente trabalhando com Java e ecossistema Spring e Angular</li>
  </ul>
 </div>
  
